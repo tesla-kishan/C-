@@ -1,23 +1,10 @@
-using System;
-
 class Employee
 {
-    public string Name;
-    public double salary;
-    public void display()
+    public String? Name;
+    public double Salary;
+
+    public void DisplayDetails()
     {
-        Console.WriteLine(Name + " Earns " + salary);
+        Console.WriteLine($"{Name} earns {Salary}");
     }
 }
-
-class Program
-{
-    static void Main()
-    {
-        Employee emp = new Employee();
-        emp.Name = "John";
-        emp.salary = 50000;
-        emp.display();
-    }
-}
-

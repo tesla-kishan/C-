@@ -16,3 +16,5 @@ dotnet help
 
 bfsi 
 photon rsa encryption
+
+dotnet new console -n  Day4
