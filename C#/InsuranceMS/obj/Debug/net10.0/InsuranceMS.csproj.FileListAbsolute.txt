@@ -1,0 +1,15 @@
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/bin/Debug/net10.0/InsuranceMS
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/bin/Debug/net10.0/InsuranceMS.deps.json
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/bin/Debug/net10.0/InsuranceMS.runtimeconfig.json
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/bin/Debug/net10.0/InsuranceMS.dll
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/bin/Debug/net10.0/InsuranceMS.pdb
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/obj/Debug/net10.0/InsuranceMS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/obj/Debug/net10.0/InsuranceMS.AssemblyInfoInputs.cache
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/obj/Debug/net10.0/InsuranceMS.AssemblyInfo.cs
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/obj/Debug/net10.0/InsuranceMS.csproj.CoreCompileInputs.cache
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/obj/Debug/net10.0/InsuranceMS.sourcelink.json
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/obj/Debug/net10.0/InsuranceMS.dll
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/obj/Debug/net10.0/refint/InsuranceMS.dll
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/obj/Debug/net10.0/InsuranceMS.pdb
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/obj/Debug/net10.0/InsuranceMS.genruntimeconfig.cache
+/Users/kishanlal/Downloads/CG Training/C#/InsuranceMS/obj/Debug/net10.0/ref/InsuranceMS.dll

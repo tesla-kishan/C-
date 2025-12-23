@@ -1,6 +1,7 @@
 class Employee
 {
     public String? Name;
+    //used ? to prevent from warning
     public double Salary;
 
     public void DisplayDetails()
@@ -8,3 +9,4 @@ class Employee
         Console.WriteLine($"{Name} earns {Salary}");
     }
 }
+
